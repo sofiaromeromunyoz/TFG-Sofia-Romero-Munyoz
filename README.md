@@ -17,4 +17,4 @@ Qualitat de vida; Fragilitat; Mortalitat; Hospitalització a domicili; Pacients 
 
 
 NOTA:
-Les dades utilitzades en aquest projecte pertanyen a pacients reals. Per motius ètics i legals, no estan incloses en aquest repositori. Per això, els notebooks no mostren resultats ni outputs, únicament el codi.
+Les dades utilitzades en aquest projecte pertanyen a pacients reals. Per motius ètics i legals, no estan incloses en aquest repositori. Per això, els notebooks no mostren resultats ni outputs, únicament el codi, encara que les dades han sigut anonimitzades abans de començar l'estudi.
